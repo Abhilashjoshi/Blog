@@ -1,0 +1,46 @@
+.my_nav
+{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+#box
+{
+    border: 1px solid lightgray;
+}
+#h
+{
+    border: 1px solid lightgray;
+}
+.Movies-head
+{
+    border-radius: 5px;
+    padding-left: 20px;
+}
+.fa-sort-desc
+{
+    float: right;
+    padding-right: 20px;
+}
+.glyphicon-star
+{
+    color: orange;
+}
+#hr
+{
+    border: 1px solid lightgray;
+}
+#Contact
+{
+    text-align: center;
+}
+#s
+{
+    text-align: center;
+    background-color: lightgrey;
+}
+#map
+{
+    text-align: center;
+    background-color: grey;
+}
